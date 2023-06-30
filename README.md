@@ -173,4 +173,4 @@ There are 3 methods inside the DataTransformer class in this POC. The recommende
 
 ## Contact
 
-[Andie Azucena](mailto:andrian.azucena@argano.com)
+[Andie Azucena](mailto:andie.azucena@outlook.com)
