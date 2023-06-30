@@ -1,0 +1,1 @@
+INSERT INTO employees (name, position, date_hired) VALUES (:#name, :#position, :#dateHired)
